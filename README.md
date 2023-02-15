@@ -6,6 +6,13 @@ Check out ChatGPT_Clone App:
 Link_1: https://lnkd.in/dPgnkcRr
 Link_2: https://lnkd.in/ddnuFDZ9
 
+This web app includes the features:
+1) Give exact answer to the queston that user has asked.
+2) Has capacity to learn from the previous question by user.
+3) You can ask alternate questions because it stores all the questions.
+4) User can use it as its personal chatGPT 2.0.
+5) The server will never be busy. 
+
 Some of the testimonials are attached.
 
 ![1](https://user-images.githubusercontent.com/95357196/219041418-6973070a-004c-4321-9c52-152413a96d9e.png)
