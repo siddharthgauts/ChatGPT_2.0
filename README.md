@@ -3,8 +3,8 @@ Made ChatGPT-clone app using Js, Css, Json, etc.
 I have used Vercel for deploying Frontend (UI) and Render for deploying its Backend (server) along with ChatGPT API.
 
 Check out ChatGPT_Clone App:
-https://lnkd.in/dPgnkcRr
-https://lnkd.in/ddnuFDZ9
+Link_1: https://lnkd.in/dPgnkcRr
+Link_2: https://lnkd.in/ddnuFDZ9
 
 Some of the testimonials are attached.
 
