@@ -13,8 +13,6 @@ This web app includes the features:
 4) User can use it as its personal chatGPT 2.0.
 5) The server will never be busy. 
 
-As of September 23, 2023, my OpenAI API credits have expired for all my accounts. I used to switch API keys to keep the service running for as long as possible. Quality of responses from OpenAI may not be fetched in good manner.
-
 
 Some of the testimonials are attached.
 
@@ -23,3 +21,6 @@ Some of the testimonials are attached.
 ![3](https://user-images.githubusercontent.com/95357196/219041447-b5720209-f1bd-41b2-8a9a-e5dc122ccd83.png)
 ![4](https://user-images.githubusercontent.com/95357196/219041454-6fed055b-4e97-4bc6-b650-716be3687f9e.png)
 ![5](https://user-images.githubusercontent.com/95357196/219041467-1a0f6261-5443-477f-a23b-aca83bc80860.png)
+
+
+As of September 23, 2023, my OpenAI API credits have expired for all my accounts. I used to switch API keys to keep the service running for as long as possible. Quality of responses from OpenAI may not be fetched in good manner.
